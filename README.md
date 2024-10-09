@@ -1,8 +1,24 @@
-# React + Vite
+# React Post Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to view and create posts. It demonstrates basic CRUD operations using React, with a clean and responsive user interface.
 
-Currently, two official plugins are available:
+## Table of Contents
+1. [Features](#features)
+2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Screenshots](#screenshots)
+6. [Contributing](#contributing)
+7. [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- ✔️ Create new posts
+- ✔️ View all posts in a list format
+- ✔️ Clean and intuitive UI
+- ✔️ Responsive design for all devices
+
+## Technologies Used
+- **React**: Front-end library for building user interfaces
+- **JavaScript**: Programming language for logic
+- **HTML**: Markup language for structuring content
+- **CSS**: Styling for the user interface
