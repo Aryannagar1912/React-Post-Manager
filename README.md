@@ -5,11 +5,6 @@ A simple React application that allows users to view and create posts. It demons
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Features
 - ✔️ Create new posts
